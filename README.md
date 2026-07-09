@@ -6,10 +6,12 @@
 
 ## 🎥 Demo
 
-![Demo GIF](data/demo.gif)
-
-📺 **[Watch the full video demonstration](https://github.com/Evan-Rouzaud-git/ai-business-analyst-workbench/releases/tag/demo/demo.mp4)**
-
+<div align="center">
+  <img src="data/demo.gif" alt="AI Business Analyst Workbench Demo" width="80%"><br>
+  <a href="https://github.com/Evan-Rouzaud-git/ai-business-analyst-workbench/releases/download/demo/demo.mp4">
+    📺 Watch the full video demonstration (52s)
+  </a>
+</div>
 ---
 
 ## Why not using ChatGPT?
