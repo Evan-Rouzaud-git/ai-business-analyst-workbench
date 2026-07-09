@@ -1,0 +1,25 @@
+# Éditeurs et IDE
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+
+# Données volumineuses et sensibles
+data/
+*.csv
+
+# Documents et notes
+docs/
+Enregistrements/
+
+# Fichiers temporaires
+arborescence.txt
+
+# Fichiers de notebooks (si vous ne voulez pas les suivre)
+core/
+*.ipynb
+
+# Autres
+*.mp4
+*.pdf
+*.docx
