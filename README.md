@@ -8,6 +8,8 @@
 
 ![Demo GIF](docs/demo.gif)
 
+📺 **[Watch the full video demonstration →](https://github.com/Evan-Rouzaud-git/ai-business-analyst-workbench/releases/tag/demo/demo.mp4)**
+
 ---
 
 ## Why not using ChatGPT?
