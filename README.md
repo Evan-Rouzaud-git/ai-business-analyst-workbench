@@ -12,6 +12,7 @@
     📺 Watch the full video demonstration (52s)
   </a>
 </div>
+
 ---
 
 ## Why not using ChatGPT?
